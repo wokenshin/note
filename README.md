@@ -1,5 +1,8 @@
 周期性复读内容
 
+学习C++时，关于输入、输出等函数的使用
+https://blog.csdn.net/weixin_41042404/article/details/80934191
+
 2021-09-27
 输入输出流：
 https://www.jianshu.com/p/a41f6d7cf19a
